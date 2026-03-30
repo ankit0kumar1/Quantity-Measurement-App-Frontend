@@ -1,1 +1,2 @@
-# Quantity-Measurement-App-Frontend
+.idea
+
